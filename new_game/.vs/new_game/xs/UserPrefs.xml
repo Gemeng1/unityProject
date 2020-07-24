@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{0D031423-812B-F74A-A48D-706C4E8AA9DA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/PlayerAttack.cs">
+    <Files>
+      <File FileName="Assets/Script/Enemy.cs" Line="47" Column="37" />
+      <File FileName="Assets/Script/Slash.cs" Line="20" Column="64" />
+      <File FileName="Assets/Script/PlayerAttack.cs" Line="22" Column="6" />
+      <File FileName="Assets/Script/PlayerMove.cs" Line="22" Column="6" />
+      <File FileName="Assets/Script/CameControll.cs" Line="12" Column="6" />
+      <File FileName="Assets/Script/DieEffect.cs" Line="11" Column="1" />
+      <File FileName="Assets/Shader/Sprites-DefaultColorFlash.shader" Line="1" Column="1" />
+      <File FileName="Assets/Script/ShowText.cs" Line="23" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="new_game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="PlayerAttack.cs" selected="True" />
+              </Node>
+              <Node name="Shader" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="eae65d9e-3cac-40fd-8ce0-26a6a0da0166" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
