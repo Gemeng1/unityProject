@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Anim_WaterFall
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 2029643276927743683, guid: 3316a1ce346224a7fa787f74fa5216d0, type: 3}
+  - {fileID: 7208478265326601359, guid: 3316a1ce346224a7fa787f74fa5216d0, type: 3}
+  - {fileID: 4395683943498763007, guid: 3316a1ce346224a7fa787f74fa5216d0, type: 3}
+  - {fileID: -1582413689713136491, guid: 3316a1ce346224a7fa787f74fa5216d0, type: 3}
+  - {fileID: -6701961397463324611, guid: 3316a1ce346224a7fa787f74fa5216d0, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_TileColliderType: 1

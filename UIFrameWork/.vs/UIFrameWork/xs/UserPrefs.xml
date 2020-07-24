@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{792A9BFF-D407-154A-2981-14C774E77EE2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UIFrameWork/Scripts/BaseUI.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ButtonScript.cs" Line="23" Column="10" />
+      <File FileName="Assets/UIFrameWork/Scripts/UIPanelType.cs" />
+      <File FileName="Assets/UIFrameWork/Scripts/UIManager.cs" Line="66" Column="22" />
+      <File FileName="Assets/UIFrameWork/Scripts/BaseUI.cs" Line="58" Column="26" />
+      <File FileName="Assets/UIFrameWork/Extension/DictionaryExtension.cs" Line="8" Column="1" />
+      <File FileName="Assets/UIFrameWork/Scripts/GameRoot.cs" />
+      <File FileName="Assets/Scripts/BagPanel.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/MainPanel.cs" Line="28" Column="1" />
+      <File FileName="Assets/Scripts/SetPanel.cs" />
+      <File FileName="Assets/Scripts/ShopPanel.cs" />
+      <File FileName="Assets/Scripts/SkillPanel.cs" />
+      <File FileName="Assets/Scripts/TaskPanel.cs" Line="19" Column="1" />
+      <File FileName="Assets/Scripts/ItemDetailPanel.cs" Line="7" Column="25" />
+      <File FileName="../../../../Applications/Unity/Hub/Editor/2019.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs" Line="69" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UIFrameWork" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="UIFrameWork" expanded="True">
+                <Node name="Extension" expanded="True" />
+                <Node name="Scripts" expanded="True">
+                  <Node name="BaseUI.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="67b898d1-d2bc-4cca-ad88-89e66643508d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/xiemeilan/learnUnity/UIFrameWork/Assets/UIFrameWork/Scripts/UIManager.cs" relfile="Assets/UIFrameWork/Scripts/UIManager.cs" line="77" column="1" />
+      <Breakpoint file="/Users/xiemeilan/learnUnity/UIFrameWork/Assets/UIFrameWork/Scripts/UIManager.cs" relfile="Assets/UIFrameWork/Scripts/UIManager.cs" line="66" column="1" />
+      <Breakpoint file="/Users/xiemeilan/learnUnity/UIFrameWork/Assets/UIFrameWork/Scripts/BaseUI.cs" relfile="Assets/UIFrameWork/Scripts/BaseUI.cs" line="87" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

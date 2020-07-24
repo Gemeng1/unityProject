@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{58E57725-A2D7-4B1F-D471-EC8E14D8C553}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Camera.cs">
+    <Files>
+      <File FileName="Assets/Script/PlayerMovement.cs" Line="22" Column="1" />
+      <File FileName="Assets/Script/Camera.cs" Line="7" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Learn_TileMap" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="36edfc3c-d3ec-4a60-b238-1750b734b159" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
