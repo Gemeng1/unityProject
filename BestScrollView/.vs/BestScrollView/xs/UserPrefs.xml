@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{A8081F9D-E0CD-390A-2A99-93CE4DA9E55F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScrollMove.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ScrollMove.cs" Line="38" Column="68" />
+      <File FileName="Assets/Scripts/ItemMove.cs" Line="70" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BestScrollView" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ScrollMove.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d7a4f724-e166-4f1a-b996-e3c0624e191c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
