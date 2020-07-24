@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{93E5B594-1532-ECE1-2BA5-B355B0708A7C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AnimationBG.cs" Line="20" Column="47" />
+      <File FileName="Assets/Scripts/FanPlatform.cs" />
+      <File FileName="Assets/Scripts/Platform.cs" Line="20" Column="24" />
+      <File FileName="Assets/Scripts/PlayerControllor.cs" Line="59" Column="6" />
+      <File FileName="Assets/Scripts/LineRender.cs" Line="24" Column="1" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="42" Column="41" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="29" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Learn_PiexlGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d79d5568-9a4a-4050-bfe9-1a662ec959c9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
